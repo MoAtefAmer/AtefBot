@@ -4,6 +4,7 @@
   },
   "dependencies": {
     "discord.js": "^14.14.1",
+    "dotenv": "^16.3.2",
     "hono": "^3.11.7"
   },
   "devDependencies": {
