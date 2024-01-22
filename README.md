@@ -5,8 +5,12 @@ Send ping, replies with pong
 ```
 make build 
 npm i
-make deployCommands
+
 make run
+```
+run this once when the server is up to register newly added slash commands (/command)
+```
+make deployCommands
 ```
 
 ```
